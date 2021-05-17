@@ -1,0 +1,71 @@
+C:\Desktop\CloneAppQLTV\TTCSDL\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\Hoc Tap\Dai Hoc\k2NamBa\TTCSDL\PMFinalTTCSDL\TTCSDL\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\Hoc Tap\Dai Hoc\k2NamBa\TTCSDL\PMFinalTTCSDL\TTCSDL\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Hoc Tap\Dai Hoc\k2NamBa\TTCSDL\PMFinalTTCSDL\TTCSDL\BLL\bin\Debug\BLL.dll
+D:\Hoc Tap\Dai Hoc\k2NamBa\TTCSDL\PMFinalTTCSDL\TTCSDL\BLL\bin\Debug\BLL.pdb
+D:\Hoc Tap\Dai Hoc\k2NamBa\TTCSDL\PMFinalTTCSDL\TTCSDL\BLL\bin\Debug\DAL.dll
+D:\Hoc Tap\Dai Hoc\k2NamBa\TTCSDL\PMFinalTTCSDL\TTCSDL\BLL\bin\Debug\DTO.dll
+D:\Hoc Tap\Dai Hoc\k2NamBa\TTCSDL\PMFinalTTCSDL\TTCSDL\BLL\bin\Debug\MetroFramework.Design.dll
+D:\Hoc Tap\Dai Hoc\k2NamBa\TTCSDL\PMFinalTTCSDL\TTCSDL\BLL\bin\Debug\MetroFramework.dll
+D:\Hoc Tap\Dai Hoc\k2NamBa\TTCSDL\PMFinalTTCSDL\TTCSDL\BLL\bin\Debug\MetroFramework.Fonts.dll
+D:\Hoc Tap\Dai Hoc\k2NamBa\TTCSDL\PMFinalTTCSDL\TTCSDL\BLL\bin\Debug\DAL.pdb
+D:\Hoc Tap\Dai Hoc\k2NamBa\TTCSDL\PMFinalTTCSDL\TTCSDL\BLL\bin\Debug\DTO.pdb
+D:\Hoc Tap\Dai Hoc\k2NamBa\TTCSDL\PMFinalTTCSDL\TTCSDL\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Hoc Tap\Dai Hoc\k2NamBa\TTCSDL\PMFinalTTCSDL\TTCSDL\BLL\obj\Debug\BLL.dll
+D:\Hoc Tap\Dai Hoc\k2NamBa\TTCSDL\PMFinalTTCSDL\TTCSDL\BLL\obj\Debug\BLL.pdb
+D:\TTCSDL\BLL\bin\Debug\BLL.dll
+D:\TTCSDL\BLL\bin\Debug\BLL.pdb
+D:\TTCSDL\BLL\bin\Debug\DAL.dll
+D:\TTCSDL\BLL\bin\Debug\DTO.dll
+D:\TTCSDL\BLL\bin\Debug\MetroFramework.Design.dll
+D:\TTCSDL\BLL\bin\Debug\MetroFramework.dll
+D:\TTCSDL\BLL\bin\Debug\MetroFramework.Fonts.dll
+D:\TTCSDL\BLL\bin\Debug\DAL.pdb
+D:\TTCSDL\BLL\bin\Debug\DTO.pdb
+D:\TTCSDL\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\TTCSDL\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\TTCSDL\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\TTCSDL\BLL\obj\Debug\BLL.dll
+D:\TTCSDL\BLL\obj\Debug\BLL.pdb
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\BLL\bin\Debug\BLL.dll
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\BLL\bin\Debug\BLL.pdb
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\BLL\bin\Debug\DAL.dll
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\BLL\bin\Debug\DTO.dll
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\BLL\bin\Debug\MetroFramework.Design.dll
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\BLL\bin\Debug\MetroFramework.dll
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\BLL\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\BLL\bin\Debug\DAL.pdb
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\BLL\bin\Debug\DTO.pdb
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\BLL\obj\Debug\BLL.dll
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\BLL\obj\Debug\BLL.pdb
+C:\Users\Admin\Documents\Nam3\TTCSDL\BLL\bin\Debug\BLL.dll
+C:\Users\Admin\Documents\Nam3\TTCSDL\BLL\bin\Debug\BLL.pdb
+C:\Users\Admin\Documents\Nam3\TTCSDL\BLL\bin\Debug\DAL.dll
+C:\Users\Admin\Documents\Nam3\TTCSDL\BLL\bin\Debug\DTO.dll
+C:\Users\Admin\Documents\Nam3\TTCSDL\BLL\bin\Debug\MetroFramework.Design.dll
+C:\Users\Admin\Documents\Nam3\TTCSDL\BLL\bin\Debug\MetroFramework.dll
+C:\Users\Admin\Documents\Nam3\TTCSDL\BLL\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Admin\Documents\Nam3\TTCSDL\BLL\bin\Debug\DAL.pdb
+C:\Users\Admin\Documents\Nam3\TTCSDL\BLL\bin\Debug\DTO.pdb
+C:\Users\Admin\Documents\Nam3\TTCSDL\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\Nam3\TTCSDL\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Nam3\TTCSDL\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Admin\Documents\Nam3\TTCSDL\BLL\obj\Debug\BLL.dll
+C:\Users\Admin\Documents\Nam3\TTCSDL\BLL\obj\Debug\BLL.pdb
+C:\Users\Admin\Desktop\TTCSDL\BLL\bin\Debug\BLL.dll
+C:\Users\Admin\Desktop\TTCSDL\BLL\bin\Debug\BLL.pdb
+C:\Users\Admin\Desktop\TTCSDL\BLL\bin\Debug\DAL.dll
+C:\Users\Admin\Desktop\TTCSDL\BLL\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\TTCSDL\BLL\bin\Debug\MetroFramework.Design.dll
+C:\Users\Admin\Desktop\TTCSDL\BLL\bin\Debug\MetroFramework.dll
+C:\Users\Admin\Desktop\TTCSDL\BLL\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Admin\Desktop\TTCSDL\BLL\bin\Debug\DAL.pdb
+C:\Users\Admin\Desktop\TTCSDL\BLL\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\TTCSDL\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\TTCSDL\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TTCSDL\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Admin\Desktop\TTCSDL\BLL\obj\Debug\BLL.dll
+C:\Users\Admin\Desktop\TTCSDL\BLL\obj\Debug\BLL.pdb

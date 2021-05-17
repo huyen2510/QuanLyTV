@@ -1,0 +1,71 @@
+C:\Desktop\CloneAppQLTV\TTCSDL\DAL\bin\Debug\DAL.dll
+C:\Desktop\CloneAppQLTV\TTCSDL\DAL\bin\Debug\DAL.pdb
+C:\Desktop\CloneAppQLTV\TTCSDL\DAL\bin\Debug\DTO.dll
+C:\Desktop\CloneAppQLTV\TTCSDL\DAL\bin\Debug\MetroFramework.Design.dll
+C:\Desktop\CloneAppQLTV\TTCSDL\DAL\bin\Debug\MetroFramework.dll
+C:\Desktop\CloneAppQLTV\TTCSDL\DAL\bin\Debug\MetroFramework.Fonts.dll
+C:\Desktop\CloneAppQLTV\TTCSDL\DAL\bin\Debug\DTO.pdb
+C:\Desktop\CloneAppQLTV\TTCSDL\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Desktop\CloneAppQLTV\TTCSDL\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Desktop\CloneAppQLTV\TTCSDL\DAL\obj\Debug\DAL.dll
+C:\Desktop\CloneAppQLTV\TTCSDL\DAL\obj\Debug\DAL.pdb
+D:\Hoc Tap\Dai Hoc\k2NamBa\TTCSDL\PMFinalTTCSDL\TTCSDL\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\Hoc Tap\Dai Hoc\k2NamBa\TTCSDL\PMFinalTTCSDL\TTCSDL\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Hoc Tap\Dai Hoc\k2NamBa\TTCSDL\PMFinalTTCSDL\TTCSDL\DAL\obj\Debug\DAL.dll
+D:\Hoc Tap\Dai Hoc\k2NamBa\TTCSDL\PMFinalTTCSDL\TTCSDL\DAL\obj\Debug\DAL.pdb
+D:\Hoc Tap\Dai Hoc\k2NamBa\TTCSDL\PMFinalTTCSDL\TTCSDL\DAL\bin\Debug\DAL.dll
+D:\Hoc Tap\Dai Hoc\k2NamBa\TTCSDL\PMFinalTTCSDL\TTCSDL\DAL\bin\Debug\DAL.pdb
+D:\Hoc Tap\Dai Hoc\k2NamBa\TTCSDL\PMFinalTTCSDL\TTCSDL\DAL\bin\Debug\DTO.dll
+D:\Hoc Tap\Dai Hoc\k2NamBa\TTCSDL\PMFinalTTCSDL\TTCSDL\DAL\bin\Debug\MetroFramework.Design.dll
+D:\Hoc Tap\Dai Hoc\k2NamBa\TTCSDL\PMFinalTTCSDL\TTCSDL\DAL\bin\Debug\MetroFramework.dll
+D:\Hoc Tap\Dai Hoc\k2NamBa\TTCSDL\PMFinalTTCSDL\TTCSDL\DAL\bin\Debug\MetroFramework.Fonts.dll
+D:\Hoc Tap\Dai Hoc\k2NamBa\TTCSDL\PMFinalTTCSDL\TTCSDL\DAL\bin\Debug\DTO.pdb
+D:\Hoc Tap\Dai Hoc\k2NamBa\TTCSDL\PMFinalTTCSDL\TTCSDL\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\TTCSDL\DAL\bin\Debug\DAL.dll
+D:\TTCSDL\DAL\bin\Debug\DAL.pdb
+D:\TTCSDL\DAL\bin\Debug\DTO.dll
+D:\TTCSDL\DAL\bin\Debug\MetroFramework.Design.dll
+D:\TTCSDL\DAL\bin\Debug\MetroFramework.dll
+D:\TTCSDL\DAL\bin\Debug\MetroFramework.Fonts.dll
+D:\TTCSDL\DAL\bin\Debug\DTO.pdb
+D:\TTCSDL\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\TTCSDL\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\TTCSDL\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\TTCSDL\DAL\obj\Debug\DAL.dll
+D:\TTCSDL\DAL\obj\Debug\DAL.pdb
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\DAL\bin\Debug\DAL.dll
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\DAL\bin\Debug\DAL.pdb
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\DAL\bin\Debug\DTO.dll
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\DAL\bin\Debug\MetroFramework.Design.dll
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\DAL\bin\Debug\MetroFramework.dll
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\DAL\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\DAL\bin\Debug\DTO.pdb
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\DAL\obj\Debug\DAL.dll
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\DAL\obj\Debug\DAL.pdb
+C:\Users\Admin\Documents\Nam3\TTCSDL\DAL\bin\Debug\DAL.dll
+C:\Users\Admin\Documents\Nam3\TTCSDL\DAL\bin\Debug\DAL.pdb
+C:\Users\Admin\Documents\Nam3\TTCSDL\DAL\bin\Debug\DTO.dll
+C:\Users\Admin\Documents\Nam3\TTCSDL\DAL\bin\Debug\MetroFramework.Design.dll
+C:\Users\Admin\Documents\Nam3\TTCSDL\DAL\bin\Debug\MetroFramework.dll
+C:\Users\Admin\Documents\Nam3\TTCSDL\DAL\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Admin\Documents\Nam3\TTCSDL\DAL\bin\Debug\DTO.pdb
+C:\Users\Admin\Documents\Nam3\TTCSDL\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\Nam3\TTCSDL\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Nam3\TTCSDL\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Admin\Documents\Nam3\TTCSDL\DAL\obj\Debug\DAL.dll
+C:\Users\Admin\Documents\Nam3\TTCSDL\DAL\obj\Debug\DAL.pdb
+C:\Users\Admin\Desktop\TTCSDL\DAL\bin\Debug\DAL.dll
+C:\Users\Admin\Desktop\TTCSDL\DAL\bin\Debug\DAL.pdb
+C:\Users\Admin\Desktop\TTCSDL\DAL\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\TTCSDL\DAL\bin\Debug\MetroFramework.Design.dll
+C:\Users\Admin\Desktop\TTCSDL\DAL\bin\Debug\MetroFramework.dll
+C:\Users\Admin\Desktop\TTCSDL\DAL\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Admin\Desktop\TTCSDL\DAL\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\TTCSDL\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\TTCSDL\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TTCSDL\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Admin\Desktop\TTCSDL\DAL\obj\Debug\DAL.dll
+C:\Users\Admin\Desktop\TTCSDL\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,12 @@
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\DAL\bin\Release\DAL.dll
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\DAL\bin\Release\DAL.pdb
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\DAL\bin\Release\DTO.dll
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\DAL\bin\Release\MetroFramework.Design.dll
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\DAL\bin\Release\MetroFramework.dll
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\DAL\bin\Release\MetroFramework.Fonts.dll
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\DAL\bin\Release\DTO.pdb
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\DAL\obj\Release\DAL.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\DAL\obj\Release\DAL.csproj.CopyComplete
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\DAL\obj\Release\DAL.dll
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\DAL\obj\Release\DAL.pdb

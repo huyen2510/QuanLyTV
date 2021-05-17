@@ -1,0 +1,218 @@
+C:\Desktop\CloneAppQLTV\TTCSDL\QuanLyThuVien\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Desktop\CloneAppQLTV\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form1.resources
+C:\Desktop\CloneAppQLTV\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_DocGia.QuanLyDocGia.resources
+C:\Desktop\CloneAppQLTV\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_Login.fLogin.resources
+C:\Desktop\CloneAppQLTV\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_DocGia.SuaThongTinDocGia.resources
+C:\Desktop\CloneAppQLTV\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_DocGia.ThemDocGIa.resources
+C:\Desktop\CloneAppQLTV\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_DocGia.ThongTinChiTietDocGiacs.resources
+C:\Desktop\CloneAppQLTV\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_MuonTra.Form_ChiTietMuonTra.resources
+C:\Desktop\CloneAppQLTV\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_MuonTra.Form_MuonSach.resources
+C:\Desktop\CloneAppQLTV\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_MuonTra.Form_TraSach.resources
+C:\Desktop\CloneAppQLTV\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_MuonTra.QuanLi_MuonTra.resources
+C:\Desktop\CloneAppQLTV\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_Sach.QuanLi_Sach.resources
+C:\Desktop\CloneAppQLTV\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_Sach.SuaDauSach.resources
+C:\Desktop\CloneAppQLTV\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_Sach.ThemDauSach.resources
+C:\Desktop\CloneAppQLTV\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_Sach.ThemSach.resources
+C:\Desktop\CloneAppQLTV\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_Sach.ThongKe.resources
+C:\Desktop\CloneAppQLTV\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_Sach.ThongTinChiTietSach.resources
+C:\Desktop\CloneAppQLTV\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_ThongKe.fThongKe.resources
+C:\Desktop\CloneAppQLTV\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+C:\Desktop\CloneAppQLTV\TTCSDL\QuanLyThuVien\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Hoc Tap\Dai Hoc\k2NamBa\TTCSDL\PMFinalTTCSDL\TTCSDL\QuanLyThuVien\obj\Debug\GUI.csprojAssemblyReference.cache
+D:\Hoc Tap\Dai Hoc\k2NamBa\TTCSDL\PMFinalTTCSDL\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form1.resources
+D:\Hoc Tap\Dai Hoc\k2NamBa\TTCSDL\PMFinalTTCSDL\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_DocGia.QuanLyDocGia.resources
+D:\Hoc Tap\Dai Hoc\k2NamBa\TTCSDL\PMFinalTTCSDL\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_Login.fLogin.resources
+D:\Hoc Tap\Dai Hoc\k2NamBa\TTCSDL\PMFinalTTCSDL\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_DocGia.SuaThongTinDocGia.resources
+D:\Hoc Tap\Dai Hoc\k2NamBa\TTCSDL\PMFinalTTCSDL\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_DocGia.ThemDocGIa.resources
+D:\Hoc Tap\Dai Hoc\k2NamBa\TTCSDL\PMFinalTTCSDL\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_DocGia.ThongTinChiTietDocGiacs.resources
+D:\Hoc Tap\Dai Hoc\k2NamBa\TTCSDL\PMFinalTTCSDL\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_MuonTra.Form_ChiTietMuonTra.resources
+D:\Hoc Tap\Dai Hoc\k2NamBa\TTCSDL\PMFinalTTCSDL\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_MuonTra.Form_MuonSach.resources
+D:\Hoc Tap\Dai Hoc\k2NamBa\TTCSDL\PMFinalTTCSDL\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_MuonTra.Form_TraSach.resources
+D:\Hoc Tap\Dai Hoc\k2NamBa\TTCSDL\PMFinalTTCSDL\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_MuonTra.QuanLi_MuonTra.resources
+D:\Hoc Tap\Dai Hoc\k2NamBa\TTCSDL\PMFinalTTCSDL\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_NhanVien.FormThemNV.resources
+D:\Hoc Tap\Dai Hoc\k2NamBa\TTCSDL\PMFinalTTCSDL\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_NhanVien.QuanLy_NhanVien.resources
+D:\Hoc Tap\Dai Hoc\k2NamBa\TTCSDL\PMFinalTTCSDL\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_NhanVien.SuaNhanVien.resources
+D:\Hoc Tap\Dai Hoc\k2NamBa\TTCSDL\PMFinalTTCSDL\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_NhanVien.ThongKeNV.resources
+D:\Hoc Tap\Dai Hoc\k2NamBa\TTCSDL\PMFinalTTCSDL\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_Sach.QuanLi_Sach.resources
+D:\Hoc Tap\Dai Hoc\k2NamBa\TTCSDL\PMFinalTTCSDL\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_Sach.SuaDauSach.resources
+D:\Hoc Tap\Dai Hoc\k2NamBa\TTCSDL\PMFinalTTCSDL\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_Sach.ThemDauSach.resources
+D:\Hoc Tap\Dai Hoc\k2NamBa\TTCSDL\PMFinalTTCSDL\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_Sach.ThemSach.resources
+D:\Hoc Tap\Dai Hoc\k2NamBa\TTCSDL\PMFinalTTCSDL\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_Sach.ThongKe.resources
+D:\Hoc Tap\Dai Hoc\k2NamBa\TTCSDL\PMFinalTTCSDL\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_Sach.ThongTinChiTietSach.resources
+D:\Hoc Tap\Dai Hoc\k2NamBa\TTCSDL\PMFinalTTCSDL\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_ThongKe.fThongKe.resources
+D:\Hoc Tap\Dai Hoc\k2NamBa\TTCSDL\PMFinalTTCSDL\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+D:\Hoc Tap\Dai Hoc\k2NamBa\TTCSDL\PMFinalTTCSDL\TTCSDL\QuanLyThuVien\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Hoc Tap\Dai Hoc\k2NamBa\TTCSDL\PMFinalTTCSDL\TTCSDL\QuanLyThuVien\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Hoc Tap\Dai Hoc\k2NamBa\TTCSDL\PMFinalTTCSDL\TTCSDL\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+D:\Hoc Tap\Dai Hoc\k2NamBa\TTCSDL\PMFinalTTCSDL\TTCSDL\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+D:\Hoc Tap\Dai Hoc\k2NamBa\TTCSDL\PMFinalTTCSDL\TTCSDL\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+D:\Hoc Tap\Dai Hoc\k2NamBa\TTCSDL\PMFinalTTCSDL\TTCSDL\QuanLyThuVien\bin\Debug\BLL.dll
+D:\Hoc Tap\Dai Hoc\k2NamBa\TTCSDL\PMFinalTTCSDL\TTCSDL\QuanLyThuVien\bin\Debug\DAL.dll
+D:\Hoc Tap\Dai Hoc\k2NamBa\TTCSDL\PMFinalTTCSDL\TTCSDL\QuanLyThuVien\bin\Debug\DTO.dll
+D:\Hoc Tap\Dai Hoc\k2NamBa\TTCSDL\PMFinalTTCSDL\TTCSDL\QuanLyThuVien\bin\Debug\MetroFramework.Design.dll
+D:\Hoc Tap\Dai Hoc\k2NamBa\TTCSDL\PMFinalTTCSDL\TTCSDL\QuanLyThuVien\bin\Debug\MetroFramework.dll
+D:\Hoc Tap\Dai Hoc\k2NamBa\TTCSDL\PMFinalTTCSDL\TTCSDL\QuanLyThuVien\bin\Debug\MetroFramework.Fonts.dll
+D:\Hoc Tap\Dai Hoc\k2NamBa\TTCSDL\PMFinalTTCSDL\TTCSDL\QuanLyThuVien\bin\Debug\BLL.pdb
+D:\Hoc Tap\Dai Hoc\k2NamBa\TTCSDL\PMFinalTTCSDL\TTCSDL\QuanLyThuVien\bin\Debug\DAL.pdb
+D:\Hoc Tap\Dai Hoc\k2NamBa\TTCSDL\PMFinalTTCSDL\TTCSDL\QuanLyThuVien\bin\Debug\DTO.pdb
+D:\Hoc Tap\Dai Hoc\k2NamBa\TTCSDL\PMFinalTTCSDL\TTCSDL\QuanLyThuVien\obj\Debug\GUI.csproj.CopyComplete
+D:\Hoc Tap\Dai Hoc\k2NamBa\TTCSDL\PMFinalTTCSDL\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+D:\Hoc Tap\Dai Hoc\k2NamBa\TTCSDL\PMFinalTTCSDL\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+D:\TTCSDL\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+D:\TTCSDL\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+D:\TTCSDL\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+D:\TTCSDL\QuanLyThuVien\bin\Debug\BLL.dll
+D:\TTCSDL\QuanLyThuVien\bin\Debug\DAL.dll
+D:\TTCSDL\QuanLyThuVien\bin\Debug\DTO.dll
+D:\TTCSDL\QuanLyThuVien\bin\Debug\MetroFramework.Design.dll
+D:\TTCSDL\QuanLyThuVien\bin\Debug\MetroFramework.dll
+D:\TTCSDL\QuanLyThuVien\bin\Debug\MetroFramework.Fonts.dll
+D:\TTCSDL\QuanLyThuVien\bin\Debug\BLL.pdb
+D:\TTCSDL\QuanLyThuVien\bin\Debug\DAL.pdb
+D:\TTCSDL\QuanLyThuVien\bin\Debug\DTO.pdb
+D:\TTCSDL\QuanLyThuVien\obj\Debug\GUI.csprojAssemblyReference.cache
+D:\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form1.resources
+D:\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_DocGia.QuanLyDocGia.resources
+D:\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_Login.fLogin.resources
+D:\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_DocGia.SuaThongTinDocGia.resources
+D:\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_DocGia.ThemDocGIa.resources
+D:\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_DocGia.ThongTinChiTietDocGiacs.resources
+D:\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_MuonTra.Form_ChiTietMuonTra.resources
+D:\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_MuonTra.Form_MuonSach.resources
+D:\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_MuonTra.Form_TraSach.resources
+D:\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_MuonTra.QuanLi_MuonTra.resources
+D:\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_NhanVien.FormThemNV.resources
+D:\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_NhanVien.QuanLy_NhanVien.resources
+D:\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_NhanVien.SuaNhanVien.resources
+D:\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_NhanVien.ThongKeNV.resources
+D:\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_Sach.QuanLi_Sach.resources
+D:\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_Sach.SuaDauSach.resources
+D:\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_Sach.ThemDauSach.resources
+D:\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_Sach.ThemSach.resources
+D:\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_Sach.ThongKe.resources
+D:\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_Sach.ThongTinChiTietSach.resources
+D:\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_ThongKe.fThongKe.resources
+D:\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+D:\TTCSDL\QuanLyThuVien\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\TTCSDL\QuanLyThuVien\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\TTCSDL\QuanLyThuVien\obj\Debug\GUI.csproj.CopyComplete
+D:\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+D:\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\QuanLyThuVien\bin\Debug\BLL.dll
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\QuanLyThuVien\bin\Debug\DAL.dll
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\QuanLyThuVien\bin\Debug\DTO.dll
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\QuanLyThuVien\bin\Debug\MetroFramework.Design.dll
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\QuanLyThuVien\bin\Debug\MetroFramework.dll
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\QuanLyThuVien\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\QuanLyThuVien\bin\Debug\BLL.pdb
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\QuanLyThuVien\bin\Debug\DAL.pdb
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\QuanLyThuVien\bin\Debug\DTO.pdb
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\QuanLyThuVien\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form1.resources
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_DocGia.QuanLyDocGia.resources
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_Login.fLogin.resources
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_DocGia.SuaThongTinDocGia.resources
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_DocGia.ThemDocGIa.resources
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_DocGia.ThongTinChiTietDocGiacs.resources
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_MuonTra.Form_ChiTietMuonTra.resources
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_MuonTra.Form_MuonSach.resources
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_MuonTra.Form_TraSach.resources
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_MuonTra.QuanLi_MuonTra.resources
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_NhanVien.FormThemNV.resources
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_NhanVien.QuanLy_NhanVien.resources
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_NhanVien.SuaNhanVien.resources
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_NhanVien.ThongKeNV.resources
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_Sach.QuanLi_Sach.resources
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_Sach.SuaDauSach.resources
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_Sach.ThemDauSach.resources
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_Sach.ThemSach.resources
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_Sach.ThongKe.resources
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_Sach.ThongTinChiTietSach.resources
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_ThongKe.fThongKe.resources
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\QuanLyThuVien\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\QuanLyThuVien\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\QuanLyThuVien\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+C:\Users\Admin\Documents\Nam3\TTCSDL-master\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+C:\Users\Admin\Documents\Nam3\TTCSDL\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+C:\Users\Admin\Documents\Nam3\TTCSDL\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+C:\Users\Admin\Documents\Nam3\TTCSDL\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+C:\Users\Admin\Documents\Nam3\TTCSDL\QuanLyThuVien\bin\Debug\BLL.dll
+C:\Users\Admin\Documents\Nam3\TTCSDL\QuanLyThuVien\bin\Debug\DAL.dll
+C:\Users\Admin\Documents\Nam3\TTCSDL\QuanLyThuVien\bin\Debug\DTO.dll
+C:\Users\Admin\Documents\Nam3\TTCSDL\QuanLyThuVien\bin\Debug\MetroFramework.Design.dll
+C:\Users\Admin\Documents\Nam3\TTCSDL\QuanLyThuVien\bin\Debug\MetroFramework.dll
+C:\Users\Admin\Documents\Nam3\TTCSDL\QuanLyThuVien\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Admin\Documents\Nam3\TTCSDL\QuanLyThuVien\bin\Debug\BLL.pdb
+C:\Users\Admin\Documents\Nam3\TTCSDL\QuanLyThuVien\bin\Debug\DAL.pdb
+C:\Users\Admin\Documents\Nam3\TTCSDL\QuanLyThuVien\bin\Debug\DTO.pdb
+C:\Users\Admin\Documents\Nam3\TTCSDL\QuanLyThuVien\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\Nam3\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form1.resources
+C:\Users\Admin\Documents\Nam3\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_DocGia.QuanLyDocGia.resources
+C:\Users\Admin\Documents\Nam3\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_Login.fLogin.resources
+C:\Users\Admin\Documents\Nam3\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_DocGia.SuaThongTinDocGia.resources
+C:\Users\Admin\Documents\Nam3\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_DocGia.ThemDocGIa.resources
+C:\Users\Admin\Documents\Nam3\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_DocGia.ThongTinChiTietDocGiacs.resources
+C:\Users\Admin\Documents\Nam3\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_MuonTra.Form_ChiTietMuonTra.resources
+C:\Users\Admin\Documents\Nam3\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_MuonTra.Form_MuonSach.resources
+C:\Users\Admin\Documents\Nam3\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_MuonTra.Form_TraSach.resources
+C:\Users\Admin\Documents\Nam3\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_MuonTra.QuanLi_MuonTra.resources
+C:\Users\Admin\Documents\Nam3\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_NhanVien.FormThemNV.resources
+C:\Users\Admin\Documents\Nam3\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_NhanVien.QuanLy_NhanVien.resources
+C:\Users\Admin\Documents\Nam3\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_NhanVien.SuaNhanVien.resources
+C:\Users\Admin\Documents\Nam3\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_NhanVien.ThongKeNV.resources
+C:\Users\Admin\Documents\Nam3\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_Sach.QuanLi_Sach.resources
+C:\Users\Admin\Documents\Nam3\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_Sach.SuaDauSach.resources
+C:\Users\Admin\Documents\Nam3\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_Sach.ThemDauSach.resources
+C:\Users\Admin\Documents\Nam3\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_Sach.ThemSach.resources
+C:\Users\Admin\Documents\Nam3\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_Sach.ThongKe.resources
+C:\Users\Admin\Documents\Nam3\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_Sach.ThongTinChiTietSach.resources
+C:\Users\Admin\Documents\Nam3\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_ThongKe.fThongKe.resources
+C:\Users\Admin\Documents\Nam3\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+C:\Users\Admin\Documents\Nam3\TTCSDL\QuanLyThuVien\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Nam3\TTCSDL\QuanLyThuVien\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Nam3\TTCSDL\QuanLyThuVien\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\Admin\Documents\Nam3\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+C:\Users\Admin\Documents\Nam3\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+C:\Users\Admin\Documents\Nam3\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_DB.DashBoard.resources
+C:\Users\Admin\Desktop\TTCSDL\QuanLyThuVien\bin\Debug\BLL.dll
+C:\Users\Admin\Desktop\TTCSDL\QuanLyThuVien\bin\Debug\DAL.dll
+C:\Users\Admin\Desktop\TTCSDL\QuanLyThuVien\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\TTCSDL\QuanLyThuVien\bin\Debug\MetroFramework.Design.dll
+C:\Users\Admin\Desktop\TTCSDL\QuanLyThuVien\bin\Debug\MetroFramework.dll
+C:\Users\Admin\Desktop\TTCSDL\QuanLyThuVien\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Admin\Desktop\TTCSDL\QuanLyThuVien\bin\Debug\BLL.pdb
+C:\Users\Admin\Desktop\TTCSDL\QuanLyThuVien\bin\Debug\DAL.pdb
+C:\Users\Admin\Desktop\TTCSDL\QuanLyThuVien\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\TTCSDL\QuanLyThuVien\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form1.resources
+C:\Users\Admin\Desktop\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_DB.DashBoard.resources
+C:\Users\Admin\Desktop\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_DocGia.QuanLyDocGia.resources
+C:\Users\Admin\Desktop\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_Login.fLogin.resources
+C:\Users\Admin\Desktop\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_DocGia.SuaThongTinDocGia.resources
+C:\Users\Admin\Desktop\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_DocGia.ThemDocGIa.resources
+C:\Users\Admin\Desktop\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_DocGia.ThongTinChiTietDocGiacs.resources
+C:\Users\Admin\Desktop\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_MuonTra.Form_ChiTietMuonTra.resources
+C:\Users\Admin\Desktop\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_MuonTra.Form_MuonSach.resources
+C:\Users\Admin\Desktop\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_MuonTra.Form_TraSach.resources
+C:\Users\Admin\Desktop\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_MuonTra.QuanLi_MuonTra.resources
+C:\Users\Admin\Desktop\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_NhanVien.FormThemNV.resources
+C:\Users\Admin\Desktop\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_NhanVien.QuanLy_NhanVien.resources
+C:\Users\Admin\Desktop\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_NhanVien.SuaNhanVien.resources
+C:\Users\Admin\Desktop\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_NhanVien.ThongKeNV.resources
+C:\Users\Admin\Desktop\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_Sach.QuanLi_Sach.resources
+C:\Users\Admin\Desktop\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_Sach.SuaDauSach.resources
+C:\Users\Admin\Desktop\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_Sach.ThemDauSach.resources
+C:\Users\Admin\Desktop\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_Sach.ThemSach.resources
+C:\Users\Admin\Desktop\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_Sach.ThongKe.resources
+C:\Users\Admin\Desktop\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_Sach.ThongTinChiTietSach.resources
+C:\Users\Admin\Desktop\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_ThongKe.fThongKe.resources
+C:\Users\Admin\Desktop\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+C:\Users\Admin\Desktop\TTCSDL\QuanLyThuVien\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\TTCSDL\QuanLyThuVien\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+C:\Users\Admin\Desktop\TTCSDL\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
